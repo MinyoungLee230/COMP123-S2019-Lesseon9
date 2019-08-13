@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2046
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesseon9", "COMP123-S2019-Lesseon9\COMP123-S2019-Lesseon9.csproj", "{B9CB585C-D33A-4AAD-B4B6-926046692BA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesson9", "COMP123-S2019-Lesseon9\COMP123-S2019-Lesson9.csproj", "{B9CB585C-D33A-4AAD-B4B6-926046692BA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
