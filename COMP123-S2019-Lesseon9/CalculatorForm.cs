@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace COMP123_S2019_Lesseon9
 {
-    public partial class Form1 : Form
+    public partial class CalculatorForm : Form
     {
-        public Form1()
+        public CalculatorForm()
         {
             InitializeComponent();
+        }
+
+        private void CalculatorForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
